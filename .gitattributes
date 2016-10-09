@@ -54,3 +54,10 @@
 *.exe     -text diff
 *.svgz    -text diff
 *.ttf     -text diff
+
+# Binary files
+*.eot binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.svg binary
