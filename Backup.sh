@@ -1,0 +1,1 @@
+drush ard --destination=~/backups/$(date +%Y-%m-%d_%H-%M-%S).tar --tar-options="--selinux --acls --xattrs --same-owner -p"

@@ -1,0 +1,15 @@
+{
+    "name": "mib/mib-group",
+    "description": "My personal drupal website",
+    "type": "project",
+    "require": {
+        "drupal/drupal": "8.*"
+    },
+    "authors": [
+        {
+            "name": "Michael Bradley",
+            "email": "michael.bradley@hotmail.co.uk"
+        }
+    ],
+    "minimum-stability": "dev"
+}
