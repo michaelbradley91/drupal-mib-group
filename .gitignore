@@ -1,7 +1,9 @@
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings.php
-sites/default/files/php/twig
 sites/default/files/js
+sites/default/files/css
+sites/default/files/styles
+sites/default/files/php
 
 # Ignore default text files
 robots.txt
